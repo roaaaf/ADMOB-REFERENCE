@@ -1,16 +1,21 @@
 # admob_practice
 
-A new Flutter project.
+ADMOB testing/reference project
 
-## Getting Started
+## About This App
+This Flutter app serves as a reference for implementing AdMob ads in Flutter applications. It contains example syntax and configurations for various ad types, including banner ads, interstitial ads, and rewarded ads. This project is designed to help developers quickly access AdMob integration snippets for future use.
 
-This project is a starting point for a Flutter application.
+Contents
+Banner Ads: Example implementation of banner ads.
+Interstitial Ads: Syntax for integrating interstitial ads.
+Rewarded Ads: Sample code for setting up rewarded ads.
+Resources
+The following resources were used to create this reference app:
 
-A few resources to get you started if this is your first Flutter project:
+AdMob Documentation
+Flutter Documentation
+Flutter AdMob Plugin
+Firebase Project Setup
+Usage
+To use the ad implementation snippets in your own Flutter projects, refer to the relevant sections in this app. Ensure you replace any test ad unit IDs with your production IDs when deploying your app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
