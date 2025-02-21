@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370159311242",
+    "project_id": "fluttertest-f8cdc",
+    "storage_bucket": "fluttertest-f8cdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370159311242:android:d5294701a79ece10ed5073",
+        "android_client_info": {
+          "package_name": "com.example.admob_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw98wwq88OEmfNWbOm58dyT-707avR0Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
